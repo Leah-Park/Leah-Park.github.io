@@ -32,6 +32,7 @@
   text-decoration: none;
   padding: 1em;
   font-size: 1em;
+  margin-top: 10px;
   display: flex;
   align-items: flex-end;
 }
@@ -69,4 +70,14 @@ footer {
   text-align: center;
   font-weight: bold;
   border-top: 1px solid #bdc2c7;
+}
+
+.icons a {
+  text-decoration: none;
+  color: #495057;
+}
+
+.icons a:hover {
+  color: #4081c2;
+  font-size: 15px;
 }
